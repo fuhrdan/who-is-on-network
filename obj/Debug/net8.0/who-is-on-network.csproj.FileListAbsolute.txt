@@ -1,0 +1,4 @@
+c:\.CSharpProjects\who-is-on-network\obj\Debug\net8.0\who-is-on-network.GeneratedMSBuildEditorConfig.editorconfig
+c:\.CSharpProjects\who-is-on-network\obj\Debug\net8.0\who-is-on-network.AssemblyInfoInputs.cache
+c:\.CSharpProjects\who-is-on-network\obj\Debug\net8.0\who-is-on-network.AssemblyInfo.cs
+c:\.CSharpProjects\who-is-on-network\obj\Debug\net8.0\who-is-on-network.csproj.CoreCompileInputs.cache
